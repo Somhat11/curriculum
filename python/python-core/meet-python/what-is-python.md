@@ -64,7 +64,7 @@ if my_age >= legal_age:
   ???("Enjoy the ride!")
 ```
 
-- print
+- kill
 - state
 - write
 - log
